@@ -5,6 +5,8 @@ YouTube downloader with mp4 to mp3 converter made with ❤ by Ahad#3257
 # How To Use?
 It's very simple just follow the steps written below.
 
+Type `pip install -r requirements` to install all required modules
+
 Type `py main.py` in console to launch YouTube Video Downloader Tool.
 
 Provide URL of a video on YouTube.

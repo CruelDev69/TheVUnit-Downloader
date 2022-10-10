@@ -1,6 +1,7 @@
 # YouTube-Video-Downloader
 YouTube downloader with mp4 to mp3 converter made with ❤ by Ahad#3257
 
+For premium version of this tool check info down below.
 
 # How To Use?
 It's very simple just follow the steps written below.
@@ -21,6 +22,23 @@ Provide name of the video you want to convert.
 <p align="center"><img width="600px" src="https://cdn.discordapp.com/attachments/1012682729265053737/1021881638512238592/unknown.png"/></p>
 
 ***
+
+# Premium:
+I made a premium tool for this repository. All features are listed down below.
+## Features:
+
+・Downloads video playlist from YouTube.
+
+・Downloads audio playlist from YouTube.
+
+・Downloads audio only directly from YouTube.
+
+・Downloads video from YouTube in high resolution.
+
+<p align="center"><img width="600px" src="https://cdn.discordapp.com/attachments/936683086601683004/1028903916487843930/unknown.png"/></p>
+
+## How to get this tool?
+Hopefully you are impressed by premium tool. Join my Discord server and ping me I'll reply to you asap.
 # Note:
 Use it but please give credits to author.
 

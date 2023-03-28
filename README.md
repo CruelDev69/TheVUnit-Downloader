@@ -35,6 +35,8 @@ I made a premium tool for this repository. All features are listed down below.
 
 ・Downloads video from YouTube in high resolution.
 
+Check out my store for premium tools: https://thevunit.mysellix.io/
+
 <p align="center"><img width="600px" src="https://cdn.discordapp.com/attachments/936683086601683004/1028903916487843930/unknown.png"/></p>
 
 ## How to get this tool?

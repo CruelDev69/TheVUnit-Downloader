@@ -35,5 +35,5 @@ Github: https://github.com/CruelDev69/YouTube-Video-Downloader
 
 Link = str(input(Fore.BLUE + "Enter URL of a YouTube Video to download: " + Fore.RESET)) # Requiring Link of YouTube video from user.
 yt = YouTube(Link) # Giving link to class.
-print(f"{Fore.GREEN}[MESSAGE]: Wait while tool downloads the video it can take several minutes depends on your internet speed.{Fore.RESET}")
+print(f"{Fore.GREEN}[MESSAGE]: Wait while tool downloads the video it can take several minutes depends on your internet.{Fore.RESET}")
 yt.streams.filter(progressive=True, file_extension="mp4").order_by('resolution').desc().first().download() # Downloading video in mp4 format.

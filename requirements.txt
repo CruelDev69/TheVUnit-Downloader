@@ -1,3 +1,4 @@
 pytube
-moviepy
-colorama
+pillow
+tkinter
+customtkinter

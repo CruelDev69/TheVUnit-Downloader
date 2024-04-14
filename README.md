@@ -1,46 +1,41 @@
-# YouTube-Video-Downloader
-YouTube downloader with mp4 to mp3 converter made with ❤ by Ahad#3257
+# TheVUnit Downloader
+TheVUnit Downloader is a downloading tool made to let you download things easily on social media. Made with ❤ by Ahad#3257
 
-For premium version of this tool check info down below.
+This is beta version if you find any errors or you have ideas make issues and let me know.
 
 # How To Use?
+> [!WARNING]
+> DON'T DELETE ANY FOLDER OR ITS CONTENT
+
+You can just download this repo and run `TheVUnit Downloader.exe` or you can follow the steps below:
+
 It's very simple just follow the steps written below.
 
 Type `pip install -r requirements` to install all required modules
 
-Type `py main.py` in console to launch YouTube Video Downloader Tool.
+Type `py app.py` in console to launch YouTube Video Downloader Tool.
 
 Provide URL of a video on YouTube.
 
-Type `py mp4_to_mp3_converter.py` in console to launch Video to Audio Converter Tool.
+# Features:
 
-Provide name of the video you want to convert.
+- [x] YouTube videos downloading support.
+- [ ] Other social media support (tiktok, insta, facebook e.t.c)
+- [ ] Quality options.
+- [x] Playlist support.
+- [ ] AutoUpdate support.
+- [ ] GUI upgrade.
+
+
+# Light and Dark mode:
 ***
 
-<p align="center"><img width="600px" src="https://media.discordapp.net/attachments/1012682729265053737/1021881333921882122/unknown.png"/></p>
+<p align="center"><img width="600px" src="./Assets/dark_mode.PNG"/></p>
 
-<p align="center"><img width="600px" src="https://cdn.discordapp.com/attachments/1012682729265053737/1021881638512238592/unknown.png"/></p>
+<p align="center"><img width="600px" src="./Assets/light_mode.PNG"/></p>
 
 ***
 
-# Premium:
-I made a premium tool for this repository. All features are listed down below.
-## Features:
-
-・Downloads video playlist from YouTube.
-
-・Downloads audio playlist from YouTube.
-
-・Downloads audio only directly from YouTube.
-
-・Downloads video from YouTube in high resolution.
-
-Check out my store for premium tools: https://thevunit.mysellix.io/
-
-<p align="center"><img width="600px" src="https://cdn.discordapp.com/attachments/936683086601683004/1028903916487843930/unknown.png"/></p>
-
-## How to get this tool?
-Hopefully you are impressed by premium tool. Join my Discord server and ping me I'll reply to you asap.
 # Note:
 Use it but please give credits to author.
 

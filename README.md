@@ -1,7 +1,7 @@
 # TheVUnit Downloader
 TheVUnit Downloader is a downloading tool made to let you download things easily on social media. Made with ❤ by Ahad#3257
 
-This is beta version if you find any errors or you have ideas make issues and let me know.
+If you find any errors or you have ideas make issues and let me know.
 
 # How To Use?
 > [!WARNING]

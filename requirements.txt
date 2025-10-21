@@ -1,4 +1,4 @@
-pytube
-pillow
-tkinter
-customtkinter
+customtkinter>=5.2.0
+yt-dlp>=2023.10.13
+Pillow>=10.0.0
+requests>=2.31.0

@@ -3,6 +3,10 @@ TheVUnit Downloader is a downloading tool made to let you download things easily
 
 If you find any errors or you have ideas make issues and let me know.
 
+[![GitHub All Releases](https://img.shields.io/github/downloads/CruelDev69/TheVUnit-Downloader/total?style=flat-square&color=blue)](https://github.com/CruelDev69/TheVUnit-Downloader/releases)
+[![GitHub Stars](https://img.shields.io/github/stars/CruelDev69/TheVUnit-Downloader?style=flat-square&color=gold)](https://github.com/CruelDev69/TheVUnit-Downloader/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/CruelDev69/TheVUnit-Downloader?style=flat-square&color=orange)](https://github.com/CruelDev69/TheVUnit-Downloader/network/members)
+
 # How To Use?
 > [!WARNING]
 > DON'T DELETE ANY FOLDER OR ITS CONTENT
